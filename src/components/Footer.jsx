@@ -17,7 +17,7 @@ const Footer = () => {
 
       <Link to="/">
 
-        <img className='imagen' onClick={handleContactClick} src="/public/bdmlogo.png" alt="Logo" /> </Link>
+        <img className='imagen' onClick={handleContactClick} src="/bdmlogo.png" alt="Logo" /> </Link>
       <div className='text'>
         <p>Belen Di Martino</p>
       </div>

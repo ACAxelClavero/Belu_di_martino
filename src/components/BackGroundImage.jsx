@@ -22,7 +22,7 @@ function BackGroundImage() {
          
          <div className="backGround">
        <Link to="/"  >
-       <img className='logo-backgroundImage'src="../../public/bdmlogo.png" alt="Logo" />  </Link>
+       <img className='logo-backgroundImage'src="/bdmlogo.png" alt="Logo" />  </Link>
          <NavigationLink />
             {/* Flecha de desplazamiento */}
     {!scrolling && (
