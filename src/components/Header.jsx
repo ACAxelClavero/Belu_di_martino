@@ -42,7 +42,7 @@ const Header = () => {
             <Link to="/contact">CONTACT</Link>
           </li>
         </ul> <Link to="/">
-        <img className='imagen-header'src="../../public/bdmlogo.png" alt="Logo" />
+        <img className='imagen-header'src="/public/bdmlogo.png" alt="Logo" />
         </Link>
         
 
