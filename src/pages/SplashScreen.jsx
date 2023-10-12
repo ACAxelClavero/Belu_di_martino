@@ -13,7 +13,7 @@ const SplashScreen = () => {
 
       return (
         <div  className={`splash-screen ${showHeader ? 'hide' : 'show'}`}>
-          <img className='logo' src="../../public/BDMlogo-removebg-preview.png" alt="Logo" />
+          <img className='logo' src="../../public/bdmlogo.png" alt="Logo" />
         </div>
       );
     };
