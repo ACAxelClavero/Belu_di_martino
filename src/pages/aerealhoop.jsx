@@ -14,7 +14,8 @@ function Aerealhoop() {
       </div>
       <div className='flex_contenedor'>
         <p className='parrafo'>The art of Aerial Hoop holds a special place in my heart. I embarked on this journey in the heart of traditional circus life, learning from talented artists from around the world. Their guidance and expertise shaped me into the performer I am today. Aerial Hoop has become one of my most powerful and captivating acts, featured prominently in various events and circus seasons.</p>
-        <img className='dance_imagen' src="/galeria1_dance.PNG" alt="dance imagen" />
+        <iframe className='dance_imagen' src="https://www.instagram.com/p/CtUMJC6O8OD/embed/"  frameBorder="0"  scrolling="no"></iframe>
+ 
       </div>
       <h2 className='titular_galeria'>GALLERY</h2>
       <div className='galeria_imagenes'>
