@@ -9,21 +9,17 @@ const Biografia = () => {
 <br></br>
 My journey in the world of art began at the tender age of 8 when my mother took me to my first dance classes: classical, contemporary, and jazz. In that very moment, I knew I had found my true place in the world.
 <br></br><br></br>
-At the age of 15, I took the next step and delved into the world of art professionally. The theater in my city offered me the opportunity to study to become a dance teacher, an achievement that fills me with pride. As I advanced in my training as a dance teacher, I continued to hone my skills in the circus.
+At 15, I delved into the world of art professionally, studying to become a dance teacher. I earned my teaching degree at 18 and started sharing my knowledge. My classes cover a wide range of styles, from Femme Style to Street Dance.
 <br></br>
-At 18, I earned my teaching degree and started sharing my knowledge as a dance teacher. My classes and workshops cover a wide range of styles, from Femme Style to Heels, Street Dance, Lyrical Jazz, and Contemporary Jazz. My passion for dance has allowed me to nurture generations of talented artists.
+At 20, I joined a renowned circus, touring the country for a year and a half, deepening my connection to the circus world and perfecting my skills in aerial techniques.
 <br></br><br></br>
-At 20, the opportunity to join a renowned circus in my country, with a long circus tradition, came knocking on my door. For a year and a half, we toured the entire country, bringing the magic of the circus to audiences of all ages. This experience deepened my connection to the circus world and allowed me to perfect my skills in aerial techniques.
+My circus career then took me beyond my country's borders, learning from acrobats in international circuses in South America. Today, my repertoire includes Aerial Hoop, Pole Dance, Aerial Straps, Chains, and more.
 <br></br>
-Following my national tour, my circus career took me beyond the borders of my country. I had the good fortune to learn from acrobats from all over the world in international circuses in South America. This allowed me to create traditional circus acts while also exploring the contemporary circus.
+I recently directed an Aerial Straps duo under the guidance of Sean McKeown, the former artistic director of Cirque du Soleil. This experience motivates me to seek new opportunities in entertainment.
 <br></br>
-Today, my repertoire includes a wide variety of acts, from Aerial Hoop, Pole Dance, Aerial Straps in duos and solos to performances on Chains, and much more. My versatility is my hallmark, both in the air and on the dance floor.
-<br></br><br></br>
-My most recent experience was at Vangart, where I directed an Aerial Straps duo under the guidance of Sean McKeown, who was previously the artistic director of Cirque du Soleil. This was a milestone in my career and motivated me to continue seeking new and exciting opportunities in the world of entertainment.
+I'm a well-rounded dancer, excited about every challenge the future holds. I hope you enjoy my art as much as I enjoy creating it!<br></br><br></br>
 <br></br>
-Today, I am a well-rounded dancer, capable of adapting to any style you may require. Dance and the circus are my life, and I'm excited about every challenge the future holds.
-<br></br><br></br>
-I hope you enjoy my art as much as I enjoy creating it!</p>
+<strong>I hope you enjoy my art as much as I enjoy creating it! </strong></p>
       {/* <img className='biografia_imagen' src="/galeria1_dance.PNG" alt="dance imagen" />  */}
       <iframe className='biografia_instagram' src="https://www.instagram.com/beluudimartino/embed/" width="350" height="450" frameBorder="0"  scrolling="no"></iframe>
 
