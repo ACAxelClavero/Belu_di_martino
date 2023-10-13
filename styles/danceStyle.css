@@ -47,6 +47,8 @@
 .flex_contenedor {
     display: flex;
     align-items: center;
+    margin: auto;
+    justify-content: space-evenly;
 }
 
 .parrafo {
@@ -55,9 +57,10 @@
     text-shadow: 1px 1px black;
     columns: 1;
     font-size: 2vw;
-    width: 70%;
+    width: 40%;
+    height: 32vw;
     color: #ffe485;
-    margin: 3vw;
+    margin-left: auto;
     padding: 2vw;
     background-color: #ffffff13;
     backdrop-filter: blur(5px);
@@ -67,12 +70,11 @@
 }
 
 .dance_imagen {
-    width: 26%;
-    height: max-content;
-    margin: 3vw;
-    margin-left: 0vw;
-    border-radius: 5px;
-    border: solid 4px #e5da6d;
+    width: 20vw;
+    height: 36vw;
+    margin: auto;
+    border-radius: 16px;
+    border: solid 2px #e5da6d;
 }
 
 /* FORM */

@@ -14,7 +14,7 @@ function Performances() {
       </div>
       <div className='flex_contenedor'>
         <p className='parrafo'>The harmonious fusion of dance and acrobatics has opened doors to a world of breathtaking performances at various events across my country. Below, you'll find a compilation of artistic highlights from some of these extraordinary shows.</p>
-        <img className='dance_imagen' src="/galeria1_dance.PNG" alt="dance imagen" />
+        <iframe className='dance_imagen' src="https://www.youtube.com/embed/XNCXxIWyZUg?si=sS4ScQqLqRzPO5PB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
       <h2 className='titular_galeria'>GALLERY</h2>
       <div className='galeria_imagenes'>
