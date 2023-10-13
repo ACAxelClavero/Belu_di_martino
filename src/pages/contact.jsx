@@ -18,7 +18,7 @@ function Contact() {
      
       </div>
       <div className='contenedor_contact'>
-        <p className='parrafo'>Hello, it's Belu Di Martino, and I can't wait to be a part of your next special event or project! If you're looking to add a touch of artistry and grace to your occasion, you're in the right place.
+        <p className='parrafo_contact'>Hello, it's Belu Di Martino, and I can't wait to be a part of your next special event or project! If you're looking to add a touch of artistry and grace to your occasion, you're in the right place.
 <br></br><br></br>
 I offer a range of captivating performances, from mesmerizing aerial shows to dynamic dance routines. My journey in the world of dance and circus arts has been nothing short of extraordinary, and I'm here to share that magic with you.
 <br></br>
