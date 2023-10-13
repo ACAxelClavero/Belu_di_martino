@@ -42,10 +42,8 @@ const Header = () => {
             <Link to="/contact">CONTACT</Link>
           </li>
         </ul> <Link to="/">
-        <img className='imagen-header'src="BDMlogo-removebg-preview.png" alt="Logo" />
+        <img className='imagen-header'src="/bdmlogo.png" alt="Logo" />
         </Link>
-        
-
         </div>
       </nav>
     </header>
