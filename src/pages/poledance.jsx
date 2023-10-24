@@ -13,7 +13,9 @@ function Poledance() {
         <h1 className='titular scale-up-horizontal-center' >POLE DANCE                    </h1>
       </div>
       <div className='flex_contenedor'>
-        <p className='parrafo'>I am a certified Pole Dance instructor. I began my training under the guidance of Barbara Regenardt and continued to expand my skills by attending workshops at various studios across the country. I've completed instructor programs at Training Shoes, covering beginner, intermediate, and advanced levels, all under the guidance of the accomplished teacher Belen Serra.
+        <p className='parrafo'>I am a certified Pole Dance instructor. I began my training under the guidance of Barbara Regenardt and continued to expand my skills by attending workshops at various studios across the country. 
+        <br></br><br></br>
+        I've completed instructor programs at Training Shoes, covering beginner, intermediate, and advanced levels, all under the guidance of the accomplished teacher Belen Serra.
 <br></br><br></br>
 Today, I bring a unique fusion of Pole Dance and a touch of Straps to create a captivating performance that blends the artistry of circus and dance in a mesmerizing Pole Straps routine.</p>
 <iframe className='dance_imagen' src="https://www.instagram.com/p/CN6HvIxHsPY/embed/"  frameBorder="0"  scrolling="no"></iframe>
