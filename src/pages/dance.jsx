@@ -27,7 +27,7 @@ function Dance() {
             <strong>Heels</strong>
             <br></br><strong>Street Dance</strong>, 
             <strong>Lyrical Jazz</strong></center>
-            <br></br>
+            
             I invite you to explore my world of dance through these videos, each a testament to the vibrant, versatile, and passionate artist I am.
           </p>
         

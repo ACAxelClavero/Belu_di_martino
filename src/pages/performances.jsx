@@ -14,9 +14,11 @@ function Performances() {
       </div>
       <div className='flex_contenedor'>
         <p className='parrafo'>The harmonious fusion of dance and acrobatics has opened doors to a world of breathtaking performances at various events across my country. 
+        Below, you'll find a compilation of artistic highlights from some of these extraordinary shows.
         <br></br>
         <br></br>
-        Below, you'll find a compilation of artistic highlights from some of these extraordinary shows.</p>
+        My performances are a unique blend of dance and acrobatics, where I showcase my artistry, strength, and flexibility. Each act is a mesmerizing spectacle that brings together different styles and techniques, leaving audiences in awe. From the stage to the streets, my performances have graced various events, offering a visual feast of movement, emotion, and art.
+        </p>
         <iframe className='dance_imagen' src="https://www.youtube.com/embed/XNCXxIWyZUg?si=sS4ScQqLqRzPO5PB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
       <h2 className='titular_galeria'>GALLERY</h2>
