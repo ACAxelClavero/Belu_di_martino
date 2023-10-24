@@ -35,14 +35,14 @@ function Dance() {
 
         <h2 className='titular_galeria'>GALLERY</h2>
         <div className='galeria_imagenes'>
-          <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-          <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-          <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-          <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-          <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-          <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-          <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-          <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
+          <img className='galeria_individual' src="/dance/1.png" alt="dance imagen" />
+          <img className='galeria_individual' src="/dance/2.png" alt="dance imagen" />
+          <img className='galeria_individual' src="/dance/3.png" alt="dance imagen" />
+          <img className='galeria_individual' src="/dance/4.png" alt="dance imagen" />
+          <img className='galeria_individual' src="/dance/5.png" alt="dance imagen" />
+          <img className='galeria_individual' src="/dance/6.png" alt="dance imagen" />
+          <img className='galeria_individual' src="/dance/7.png" alt="dance imagen" />
+          <img className='galeria_individual' src="/dance/8.png" alt="dance imagen" />
         </div>
       </div>
       <BackGroundPages />

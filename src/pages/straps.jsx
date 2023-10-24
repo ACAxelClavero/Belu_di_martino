@@ -9,7 +9,7 @@ function Straps() {
     <div className='fondo'>
       <Header />
       <div className='contenedor'>
-        <img className='dance_banner' src="/straps2.png" alt="dance banner" />
+        <img className='dance_banner' src="/straps.png" alt="dance banner" />
         <h1 className='titular scale-up-horizontal-center' >AERIAL STRAPS                   </h1>
       </div>
       <div className='flex_contenedor'>

@@ -18,14 +18,14 @@ function Performances() {
       </div>
       <h2 className='titular_galeria'>GALLERY</h2>
       <div className='galeria_imagenes'>
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
+        <img className='galeria_individual' src="/performance/1.png" alt="performance imagen" />
+        <img className='galeria_individual' src="/performance/2.png" alt="performance imagen" />
+        <img className='galeria_individual' src="/performance/3.png" alt="performance imagen" />
+        <img className='galeria_individual' src="/performance/4.png" alt="performance imagen" />
+        <img className='galeria_individual' src="/performance/5.png" alt="performance imagen" />
+        <img className='galeria_individual' src="/performance/6.png" alt="performance imagen" />
+        <img className='galeria_individual' src="/performance/7.png" alt="performance imagen" />
+        <img className='galeria_individual' src="/performance/8.png" alt="performance imagen" />
       </div>
       <BackGroundPages />
     </div>
