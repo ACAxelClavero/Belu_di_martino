@@ -82,6 +82,7 @@
     columns: 1;
     font-size: 2vw;
     width: 60%;
+    height: min-content;
     color: #ffe485;
     margin: auto;
     padding: 2vw;
@@ -206,6 +207,7 @@ input:focus, textarea:focus{
 .galeria_imagenes {
     display: grid;
     justify-items: center;
+    align-items: center;
     grid-template-rows: repeat(1, 1fr);
     grid-template-columns: repeat(4, 1fr);
     gap: 2vw;
@@ -244,8 +246,14 @@ input:focus, textarea:focus{
 }
 @media (max-width: 600px) {
   
+    .flex_contenedor{
+        display: contents;
+    }
     .dance_imagen{
-        display: none;
+        margin-top: 15px;
+        display: block;
+        width: 40vh;
+        height: 72vh;;
     }
 
     .titular{
@@ -253,8 +261,11 @@ input:focus, textarea:focus{
         bottom:8vw;
     }
     .parrafo{
+        margin: auto;
         width: 90%;
-        font-size: 5vw;
+        height: min-content;
+        font-size: 3vh;
+        overflow: scroll;
 
     }
     .galeria_imagenes{
@@ -282,6 +293,11 @@ input:focus, textarea:focus{
         }
         .contenedor_contact{
             margin-bottom: 10px;
+        }
+        .parrafo_contact{
+            height: 60vH;
+            font-size: 2.5vh;
+            overflow: scroll;
         }
     .btn-form{
         font-size: 3.5vw;
