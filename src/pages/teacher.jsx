@@ -18,14 +18,14 @@ function Teacher() {
       </div>
       <h2 className='titular_galeria'>GALLERY</h2>
       <div className='galeria_imagenes'>
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
+        <img className='galeria_individual' src="/teacher/1.png" alt="dance imagen" />
+        <img className='galeria_individual' src="/teacher/2.png" alt="dance imagen" />
+        <img className='galeria_individual' src="/teacher/3.png" alt="dance imagen" />
+        <img className='galeria_individual' src="/teacher/4.png" alt="dance imagen" />
+        <img className='galeria_individual' src="/teacher/5.png" alt="dance imagen" />
+        <img className='galeria_individual' src="/teacher/6.png" alt="dance imagen" />
+        <img className='galeria_individual' src="/teacher/7.png" alt="dance imagen" />
+        <img className='galeria_individual' src="/teacher/8.png" alt="dance imagen" />
       </div>
       <BackGroundPages />
     </div>

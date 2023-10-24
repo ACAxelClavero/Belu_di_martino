@@ -18,14 +18,14 @@ function Straps() {
       </div>
       <h2 className='titular_galeria'>GALLERY</h2>
       <div className='galeria_imagenes'>
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
+        <img className='galeria_individual' src="/straps/1.png" alt="straps imagen" />
+        <img className='galeria_individual' src="/straps/2.png" alt="straps imagen" />
+        <img className='galeria_individual' src="/straps/3.png" alt="straps imagen" />
+        <img className='galeria_individual' src="/straps/4.png" alt="straps imagen" />
+        <img className='galeria_individual' src="/straps/5.png" alt="straps imagen" />
+        <img className='galeria_individual' src="/straps/2.png" alt="straps imagen" />
+        <img className='galeria_individual' src="/straps/1.png" alt="straps imagen" />
+        <img className='galeria_individual' src="/straps/5.png" alt="straps imagen" />
       </div>
       <BackGroundPages />
     </div>

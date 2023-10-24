@@ -9,7 +9,7 @@ function Poledance() {
     <div className='fondo'>
       <Header />
       <div className='contenedor'>
-        <img className='dance_banner' src="/carrusel_dance.jpg" alt="dance banner" />
+        <img className='dance_banner' src="/pole-dance.png" alt="dance banner" />
         <h1 className='titular scale-up-horizontal-center' >POLE DANCE                    </h1>
       </div>
       <div className='flex_contenedor'>
@@ -20,14 +20,14 @@ Today, I bring a unique fusion of Pole Dance and a touch of Straps to create a c
       </div>
       <h2 className='titular_galeria'>GALLERY</h2>
       <div className='galeria_imagenes'>
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
+        <img className='galeria_individual' src="/pole-dance/1.png" alt="pole dance imagen" />
+        <img className='galeria_individual' src="/pole-dance/2.png" alt="pole dance imagen" />
+        <img className='galeria_individual' src="/pole-dance/3.png" alt="pole dance imagen" />
+        <img className='galeria_individual' src="/pole-dance/4.png" alt="pole dance imagen" />
+        <img className='galeria_individual' src="/pole-dance/5.png" alt="pole dance imagen" />
+        <img className='galeria_individual' src="/pole-dance/1.png" alt="pole dance imagen" />
+        <img className='galeria_individual' src="/pole-dance/2.png" alt="pole dance imagen" />
+        <img className='galeria_individual' src="/pole-dance/3.png" alt="pole dance imagen" />
       </div>
       <BackGroundPages />
     </div>

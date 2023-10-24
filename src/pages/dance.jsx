@@ -30,8 +30,7 @@ function Dance() {
             I invite you to explore my world of dance through these videos, each a testament to the vibrant, versatile, and passionate artist I am.
           </p>
         
-          <iframe className='dance_imagen' src="https://www.instagram.com/p/CyL5Ld8RZmR/embed/"  frameBorder="0"  scrolling="no"></iframe>
-      </div>
+          <iframe className='dance_imagen' src="https://www.youtube.com/embed/hN1QUlO76Sw?si=d3mxRp3lJpHpnbMm" title="Dance video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>      </div>
       <div className='contenedor'>
 
         <h2 className='titular_galeria'>GALLERY</h2>

@@ -14,19 +14,18 @@ function Aerealhoop() {
       </div>
       <div className='flex_contenedor'>
         <p className='parrafo'>The art of Aerial Hoop holds a special place in my heart. I embarked on this journey in the heart of traditional circus life, learning from talented artists from around the world. Their guidance and expertise shaped me into the performer I am today. Aerial Hoop has become one of my most powerful and captivating acts, featured prominently in various events and circus seasons.</p>
-        <iframe className='dance_imagen' src="https://www.instagram.com/p/CtUMJC6O8OD/embed/"  frameBorder="0"  scrolling="no"></iframe>
- 
+        <iframe className='dance_imagen' src="https://www.youtube.com/embed/-ZIqHCLSGJ0?si=U1ds2RmgiHvhwqUf" title="Aereal Hope video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
       </div>
       <h2 className='titular_galeria'>GALLERY</h2>
       <div className='galeria_imagenes'>
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
-        <img className='galeria_individual' src="/galeria1_dance.PNG" alt="dance imagen" />
+        <img className='galeria_individual' src="/aerial-hoop/1.png" alt="Aerial Hoop Imagen" />
+        <img className='galeria_individual' src="/aerial-hoop/2.png" alt="Aerial Hoop Imagen" />
+        <img className='galeria_individual' src="/aerial-hoop/3.png" alt="Aerial Hoop Imagen" />
+        <img className='galeria_individual' src="/aerial-hoop/4.png" alt="Aerial Hoop Imagen" />
+        <img className='galeria_individual' src="/aerial-hoop/5.png" alt="Aerial Hoop Imagen" />
+        <img className='galeria_individual' src="/aerial-hoop/6.png" alt="Aerial Hoop Imagen" />
+        <img className='galeria_individual' src="/aerial-hoop/7.png" alt="Aerial Hoop Imagen" />
+        <img className='galeria_individual' src="/aerial-hoop/8.png" alt="Aerial Hoop Imagen" />
       </div>
       <BackGroundPages />
     </div>
