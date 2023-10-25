@@ -40,7 +40,7 @@ const Footer = () => {
         </a>
       </div>
       <div  className='flex_designers'>
-        <p className='diseñadores'>Clavero</p>
+        <p className='disenadores'>© 2023 All Rights Reserved - Design and Development by <a href="https://www.linkedin.com/in/axel-clavero/" target='_blank'>Axel Clavero</a> and <a href="https://www.linkedin.com/in/maclavero/" target='_blank'>Pini Clavero</a></p>
 
       </div>
     </footer>

@@ -27,7 +27,7 @@
     align-items: flex-end;
     justify-content: flex-end;
     position: absolute;
-    bottom: 1vw;
+    top: 7vw;
     right: 5vw;
 }
 
@@ -45,18 +45,26 @@
     margin-top: auto;
     margin-bottom: 1.5vw;
     left: 2vw;
+    top: 5vw;
     display: flex;
     align-items: flex-end;
     justify-content: flex-start;
     position: absolute;
     margin: 2vw;
-    bottom: 0;
+   
 }
-
-.diseñadores {
-    font-size: 2vw;
+.flex_designers{
+    margin-top: 20px;
+    background-color: rgba(22, 22, 22, 0.692);
+}
+.disenadores {
+    font-size: 1.2vw;
     text-align: center;
-    margin-top: 1vw;
+    justify-content: center;
+    padding: 5px 0 0 0;
+    color: white;
+}
+.disenadores a{
     color: #ffd333;
 }
 .centerButton {
