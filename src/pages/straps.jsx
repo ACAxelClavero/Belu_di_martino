@@ -20,7 +20,7 @@ function Straps() {
         Together, we graced the stages of Rosario and the iconic Corrientes Avenue in Buenos Aires - Argentina, led by the expert guidance of directors Sean McKeown, Damian Mahler, and Diego Castro.
         <br></br><br></br>
         Experience the aerial world of Aerial Straps with me, where I push the boundaries of physicality and artistry to create stunning, gravity-defying performances.</p>
-        <iframe className='dance_imagen' src="https://www.youtube.com/embed/W_4QuZ9buzc?si=rlbrbTNBGqsbUAqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe className='dance_imagen' src="https://www.youtube.com/embed/WVp9ymh9DjU?si=I5hdRbZ0VV7GRGkO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
       <h2 className='titular_galeria'>GALLERY</h2>
       <div className='galeria_imagenes'>

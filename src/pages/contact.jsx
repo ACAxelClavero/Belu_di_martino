@@ -30,16 +30,16 @@ I'm excited to bring art and entertainment to your world. Contact me today, and 
 
  </p>
         <div className='icons-contact'>
-          <a href="https://www.instagram.com/beluudimartino/">
+          <a href="https://www.instagram.com/beluudimartino/" target='_blank'>
             <i className="fab fa-instagram"></i>
           </a>
-          <a href="https://www.tiktok.com/@beluudimartino.dm">
-            <i className="fab fa-tiktok"></i>
+          <a href="https://www.youtube.com/@belendimartino" target='_blank'>
+            <i className="fab fa-youtube"></i>
           </a>
-          <a href="mailto:bdmbelendimartino@gmail.com">
+          <a href="mailto:bdmbelendimartino@gmail.com" target='_blank'>
             <i className="fas fa-envelope"></i>
           </a>
-          <a href="https://wa.me/3425355956">
+          <a href="https://wa.me/3425355956/?text=Hola%20Belen!%20Quisiera%20contactarte%20por%20trabajo.%20Soy...%20" target='_blank'>
             <i className="fab fa-whatsapp"></i>
           </a>
         </div>
