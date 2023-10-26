@@ -2,6 +2,9 @@
   "name": "belu-di-martino",
   "private": true,
   "version": "0.0.0",
+
+  "homepage": "https://belu-di-martino-j9z328k0z-pini-clavero.vercel.app/",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
