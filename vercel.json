@@ -1,0 +1,16 @@
+{
+    "routes": [
+      { "src": "/", "dest": "/" },
+      { "src": "/aerealhoop", "dest": "/" },
+      { "src": "/circus", "dest": "/" },
+      { "src": "/dance", "dest": "/" },
+      { "src": "/modeling", "dest": "/" },
+      { "src": "/performances", "dest": "/" },
+      { "src": "/poledance", "dest": "/" },
+      { "src": "/straps", "dest": "/" },
+      { "src": "/teacher", "dest": "/" },
+      { "src": "/biografia", "dest": "/" },
+      { "src": "/contact", "dest": "/" }
+    ]
+
+  }
