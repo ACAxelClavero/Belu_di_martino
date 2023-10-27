@@ -95,6 +95,8 @@ text-decoration: none;
       font-size: 2em;
       margin: auto;
       text-align: center;
+      color: #ffd333;
+        -webkit-text-stroke: 0
     }
     .biografia_flex {
 

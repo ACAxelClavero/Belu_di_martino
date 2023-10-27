@@ -79,14 +79,18 @@ header {
       flex-direction: column;
       align-items: flex-start;
       margin-top: 40vw;
+      
 
     }
     .words-header a {
     font-size: 5vw;
+    color: #ffd333;
+        -webkit-text-stroke: 0
     }
   
     .words-header li {
       font-size: 7vw;
+      
     }  
     .imagen-header {
         height: auto;

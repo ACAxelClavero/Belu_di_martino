@@ -9,7 +9,7 @@ function Teacher() {
       <Header />
       <div className='contenedor'>
         <img className='dance_banner' src="/teacher.PNG" alt="dance banner" />
-        <h1 className='titular scale-up-horizontal-center' > TEACHER                 </h1>
+        <h1 className='titular scale-up-horizontal-center' >TEACHING</h1>
       </div>
       <div className='flex_contenedor'>
         <p className='parrafo'>One of my greatest passions is teaching. I started at the age of 18, conducting workshops and seminars covering various styles of dance and aerial acrobatics. However, my true motivation has always been a social one – creating safe and inclusive spaces where everyone can dance comfortably, freely, and in a community of like-minded individuals. 

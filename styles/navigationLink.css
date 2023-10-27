@@ -243,6 +243,6 @@ body {
 	.void .model-name {
 		font-size: 1em;
 		color: #ffd333;
-		-webkit-text-stroke: 1px black
+        -webkit-text-stroke: 0
 	}
 }

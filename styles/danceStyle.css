@@ -259,6 +259,12 @@ input:focus, textarea:focus{
     .titular{
         font-size: 9vw;
         bottom:8vw;
+        color: #ffd333;
+        -webkit-text-stroke: 0
+    }
+    .titular_galeria{
+        color: #ffd333;
+        -webkit-text-stroke: 0
     }
     .parrafo{
         margin: auto;
