@@ -16,7 +16,7 @@ function Circus() {
           <br></br>
           
           Following my national tour, my circus career took me beyond the borders of my country. I had the good fortune to learn from acrobats from all over the world in international circuses in South America. This allowed me to create traditional circus acts while also exploring the contemporary circus.</p>
-        <iframe className='dance_imagen' src="https://www.youtube.com/embed/mHvGDwNC8_M?si=co2zMfyWgGkePNW0" title="Circus Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <iframe className='dance_imagen' src="https://www.youtube.com/embed/W_4QuZ9buzc?si=CcPPulfw-NRZtix1" title="Circus video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
       <h2 className='titular_galeria'>GALLERY</h2>
       <div className='galeria_imagenes'>
