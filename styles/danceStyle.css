@@ -308,6 +308,10 @@ input:focus, textarea:focus{
     .btn-form{
         font-size: 3.5vw;
     }
+    .form-h2{
+        color: #ffd333;
+        -webkit-text-stroke: 0
+    }
     .form-content .form-h2{
         font-size: 20px;
         } 
